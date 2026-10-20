@@ -1,0 +1,15 @@
+# Module 1: Endpoint Monitoring Daemon
+psutil
+
+# Module 2: Edge Optical Liveness Engine
+opencv-python
+mediapipe
+
+# Module 3: Out-of-Band (OOB) Signaling Controller
+fastapi
+uvicorn
+websockets
+
+# Module 4: Cryptographic Mobile Authenticator
+PyJWT
+cryptography
